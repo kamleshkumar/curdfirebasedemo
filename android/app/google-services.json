@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "726892175028",
+    "firebase_url": "https://kkmsgapp.firebaseio.com",
+    "project_id": "kkmsgapp",
+    "storage_bucket": "kkmsgapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726892175028:android:41431516b7eb130d26c1e1",
+        "android_client_info": {
+          "package_name": "com.curdfirebasedemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANzGeVd0d6TWP_Vpti1aLu_PTh_xRLyp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
